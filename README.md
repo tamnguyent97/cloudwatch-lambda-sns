@@ -1,7 +1,12 @@
-Prepare environment
-REGION
-PROFILE
-logstreamname
+## Environment
+Please prepare environment like below:
+  REGION
 
-aws-cloudwatch-log-mailer
+  PROFILE
+
+  logstreamname
+  
+  Topicname
+
+## aws-cloudwatch-log-mailer
 https://github.com/davoclock/aws-cloudwatch-log-mailer.git
